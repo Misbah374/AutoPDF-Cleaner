@@ -1,0 +1,29 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+obj/
+
+# Personal PDFs — keep the PDFs folder, but don't upload PDF files
+PDFs/*.pdf
+PDFs/*.PDF
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
